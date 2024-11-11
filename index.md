@@ -4,3 +4,4 @@
 #### Este es un encabezado `<h4>` de este documento
 ##### Este es un encabezado `<h5>` de este documento
 ###### Este es un encabezado `<h6>` de este documento
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
